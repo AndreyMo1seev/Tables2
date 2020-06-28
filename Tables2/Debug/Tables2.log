@@ -1,0 +1,12 @@
+﻿  main.cpp
+  tarrayhash.cpp
+  tarraytable.cpp
+  thashtable.cpp
+  tscantable.cpp
+  tsorttable.cpp
+  ttreetable.cpp
+  Создание кода...
+C:\Users\bfghb\source\repos\Tables2\Tables2\ttreetable.cpp(77): warning C4715: TTreeTable::InsRecord: значение возвращается не при всех путях выполнения
+C:\Users\bfghb\source\repos\Tables2\Tables2\tsorttable.cpp(70): warning C4715: TSortTable::InsRecord: значение возвращается не при всех путях выполнения
+C:\Users\bfghb\source\repos\Tables2\Tables2\tscantable.cpp(43): warning C4715: TScanTable::InsRecord: значение возвращается не при всех путях выполнения
+  Tables2.vcxproj -> C:\Users\bfghb\source\repos\Tables2\Debug\Tables2.exe
